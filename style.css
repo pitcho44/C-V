@@ -14,7 +14,7 @@ header {
     height: 160px;
     padding-top: 10px;
     color: white;
-    background-color: #333;
+    background-color: #336e76;
 }
 .photo {
     margin-left: 7%;
@@ -28,7 +28,7 @@ header {
     margin-top: -10%;
 }   
 h3{
-    color: #55bf4b;
+    color: #b9d7b6;
     font-weight: bold;
     letter-spacing: .1rem;
     font-size: 20px;
